@@ -12,6 +12,7 @@ http://www.mylv.net/opensource/opensource_view.aspx?BID=96435
          wmode="transparent" width="845" height="510" />
 </object>
 
+http://youtu.be/h2mnOkbDfCk
 
 <img src="https://github.com/mocona05/RC-Servo-Tester-/blob/master/1.png">
 
